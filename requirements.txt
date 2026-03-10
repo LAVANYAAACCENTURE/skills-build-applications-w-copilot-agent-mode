@@ -1,2 +1,5 @@
+# Required packages for OctoFit Tracker
+
+requests
 numpy
 pandas
