@@ -1,4 +1,9 @@
-# Basic tracker logic placeholder
+# Tracker module for OctoFit Tracker
 
-def track():
-    pass
+class Tracker:
+    def __init__(self):
+        pass
+
+    def track(self):
+        pass
+
